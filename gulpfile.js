@@ -24,4 +24,4 @@ requireDir('./gulp', {recurse: true});
 /**
  * Default task launch the build task
  */
-gulp.task('default', gulp.series('build'));
+gulp.task('default', gulp.series('setup'));
