@@ -11,7 +11,7 @@
     "download": "^6.2.5",
     "execa": "^0.8.0",
     "fs-extra": "^4.0.2",
-    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp": "4.0",
     "gulp-github-release": "^1.2.1",
     "gulp-util": "^3.0.8",
     "mapshaper": "^0.4.59",
